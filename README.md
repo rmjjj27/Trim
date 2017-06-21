@@ -1,2 +1,2 @@
 # Trim
-shopify boy
+shopify bot
